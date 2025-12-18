@@ -29,7 +29,7 @@ public class Implicit {
 //		System.out.println("int value of x:" + y);
 		
 		float s = (float) 10.5;
-		long h = 78565555789l;
+		long h = 214783648;
 		long t = 10;
 		System.out.println(s + " " + h + " "+ t);
 		
