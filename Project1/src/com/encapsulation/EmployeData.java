@@ -32,6 +32,7 @@ public class EmployeData {
 		System.out.println("Employee name is:" + e1.getName());
 		System.out.println("Employee id is:" + e1.getage());
 		System.out.println("Employee Salary is:" + e1.getgender());
+		
 	}
 }
 

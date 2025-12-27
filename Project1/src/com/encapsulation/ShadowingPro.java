@@ -27,7 +27,7 @@ class Shadow{
 public class ShadowingPro {
 	public static void main(String[] args) {
 		
-		Shadow s1 = new Shadow("Danish",50,"Male");
+		Shadow s1 = new Shadow("Danish",22,"Male");
 		
 		System.out.println("Employee name is:" + s1.getName());
 		System.out.println("Employee age is:" + s1.getage());
@@ -35,5 +35,3 @@ public class ShadowingPro {
 	}
 }
 
-//inside a seter method must be same as the name of instance variable 
-//But when we do this the modification of value is not reflected in the instance variable
